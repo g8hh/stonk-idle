@@ -1,0 +1,165 @@
+/* Icon Colors */
+.marketVeryHigh, .marketVeryHigh>path {
+    color: rgb(55, 212, 34) !important;
+}
+
+.marketHigh, .marketHigh>path {
+    color: rgb(36, 141, 22) !important;
+}
+
+.marketEqual, .marketEqual>path {
+    color: rgb(29, 122, 158) !important;
+}
+
+.marketLow, .marketLow>path {
+    color: rgb(177, 122, 76) !important;
+}
+
+.marketVeryLow, .marketVeryLow>path {
+    color: rgb(212, 34, 34) !important;
+}
+
+.dangerIcon, .dangerIcon path {
+    color: rgb(187, 45, 45);
+}
+
+.helpIcon, .helpIcon path {
+    color: rgb(56, 162, 211);
+}
+
+.dragInfo, .dragInfo path {
+    color: #61666d;
+}
+
+.downtrend, .downtrend>path {
+    color: rgb(184, 40, 40) !important;
+}
+
+.uptrend, .uptrend>path {
+    color: rgb(103, 230, 103) !important;
+}
+
+.downtrend, .downtrend>path {
+    color: rgb(184, 40, 40) !important;
+}
+
+.uptrend, .uptrend>path {
+    color: rgb(103, 230, 103) !important;
+}
+
+.buttonInfo {
+    background-color: rgb(27, 143, 182);
+}
+
+.buttonSuccess {
+    background-color: rgb(28, 88, 28);
+}
+
+.buttonCancel {
+    background-color: red;
+}
+
+/* Layout */
+
+.floatLeft {
+    float: left;
+}
+
+.floatRight {
+    float: right;
+}
+
+/* General Colors */
+
+
+/* Global Button */
+
+button {
+    background-color: #2c323b;
+    border: solid thin #61666d;
+    color: white !important;
+    margin: 3px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4c5664;
+}
+
+
+/* Global Table */
+
+table {
+    border-collapse: collapse;
+}
+
+tr {
+    border: solid thin #61666d
+}
+
+/* Wrapper */
+.clearFloat {
+    clear: both;
+    display: block;
+}
+
+/* Detail Box */
+.detailBox {
+    margin: 3px;
+    float: left;
+    background-color: #2C323B;
+    border-radius: 3px;
+    padding: 4px;
+    width: 73px;
+}
+
+.detailBoxTitle {
+    font-size: 8pt;
+    text-align: center;
+    font-weight: bold;
+}
+
+.detailBoxContent {
+    text-align: center;
+    font-size: 10pt;
+}
+
+/* Technical */
+.noselect {
+    -webkit-touch-callout: none;
+    /* iOS Safari */
+    -webkit-user-select: none;
+    /* Safari */
+    -khtml-user-select: none;
+    /* Konqueror HTML */
+    -moz-user-select: none;
+    /* Old versions of Firefox */
+    -ms-user-select: none;
+    /* Internet Explorer/Edge */
+    user-select: none;
+    /* Non-prefixed version, currently
+                                    supported by Chrome, Edge, Opera and Firefox */
+}
+
+/* Scrollbars */
+* {
+    /* Foreground, Background */
+    scrollbar-color: #999 #333;
+}
+
+*::-webkit-scrollbar {
+    width: 10px;
+    /* Mostly for vertical scrollbars */
+    height: 10px;
+    /* Mostly for horizontal scrollbars */
+}
+
+*::-webkit-scrollbar-thumb {
+    /* Foreground */
+    background: #999;
+}
+
+*::-webkit-scrollbar-track {
+    /* Background */
+    background: #333;
+}
