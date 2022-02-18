@@ -183,7 +183,7 @@ var cnItems = {
     "Store / School": "库存 / 学习",
     "Not enough fundings to pay for School!": "没有足够的资金来支付学校的费用！",
     "Buy In": "买入",
-    "Diff": "差异",
+    "Diff": "盈亏",
     "per Share": "每股",
     "Understand the Market": "了解市场",
     "Understand the Market Movement": "了解市场动向",
