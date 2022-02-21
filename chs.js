@@ -494,7 +494,7 @@ var cnRegReplace = new Map([
     [/^Not enough funding to buy (.+) \((.+) needed$/, '没有足够的资金购买 $1（需要 $2'],
     [/^Not enough free stocks to buy (.+) \((.+) avaliable$/, '没有足够的免费股票来购买 $1（$2 可用'],
     [/^News Subscription was bought for (.+) Periods$/, '新闻订阅已购买 $1 期'],
-    [/^You got a (.+). Beat (.+) to win!$/, '你得到了 $。超过 $2 以获胜！'],
+    [/^You got a (.+). Beat (.+) to win!$/, '你得到了 $1。超过 $2 以获胜！'],
     [/^Goal reached! Get (.+) to your Saving Interest-period$/, '目标达成！ 获得 $1 的储蓄利息期'],
     [/^Goal reached! Get (.+) to your Saving Interest-rate$/, '目标达成！ 获得 $1 的储蓄利率'],
     [/^Goal reached! Get (.+) to your Credit Interest-rate$/, '目标达成！ 获得 $1 的信用利率'],
