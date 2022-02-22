@@ -492,7 +492,7 @@ var cnRegReplace = new Map([
     [/^Main: (.+) Reason: School Fee$/, '主要：$1 原因：学费'],
     [/^Not enough shares owned to sell (.+) \((.+) owned$/, '拥有的股份不足以出售 $1（拥有 $2'],
     [/^Not enough funding to buy (.+) \((.+) needed$/, '没有足够的资金购买 $1（需要 $2'],
-    [/^Not enough free stocks to buy (.+) \((.+) avaliable$/, '没有足够的免费股票来购买 $1（$2 可用'],
+    [/^Not enough free stocks to buy (.+) \((.+) avaliable$/, '没有足够的空闲股票可以购买 $1（$2 可用'],
     [/^News Subscription was bought for (.+) Periods$/, '新闻订阅已购买 $1 期'],
     [/^You got a (.+). Beat (.+) to win!$/, '你得到了 $1。超过 $2 以获胜！'],
     [/^Goal reached! Get (.+) to your Saving Interest-period$/, '目标达成！ 获得 $1 的储蓄利息期'],
