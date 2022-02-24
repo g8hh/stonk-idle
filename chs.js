@@ -406,7 +406,7 @@ var cnPrefix = {
     "Credit Account Interest-Rate ": "信用账户利率 ",
     "Chance for Items added to the Shop: ": "物品添加到商店的几率：",
     "Store: Item Interest period extension was bought for ": "商店：购买了商品利息期延长，花费 ",
-    "": "",
+    "Nerd Errors Games got an update in it's potential. \n Potential is now: ": "阳光后援团 的潜力得到了更新。 \n潜力现在是：",
     "": "",
     "": "",
     "": "",
