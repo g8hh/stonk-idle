@@ -279,6 +279,7 @@ var cnItems = {
     "Tax": "税",
     "ARE": "ARE",
     "EBT": "EBT",
+    "Started School: Understand the Market": "开始学习：了解市场",
     "Started School: Where are they going?": "开始学习：他们要去哪儿？",
     "Started School: Understand the Market Movement": "开始学习：了解市场动向！",
     "Started School: More numbers for your life!": "开始学习：为您的生活提供更多数字！",
